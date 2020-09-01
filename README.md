@@ -1,3 +1,3 @@
 # cmuq313_githubflow
 
-## Practice github flow
+## Practice Github flow
